@@ -5,13 +5,13 @@ We are collecting the various csv files to help identify how many employees at P
 
 ## Results
 
-
+### Retiring Employees
 ![results.png](https://github.com/1fatpanda1/Pewlett-Hackard-Analysis-1/blob/main/Data/retirees%20by%20title.png)
 - Of the 240,124 employees currently employed at Pewlett Hackard, 72,458 (roughly 30%) will be retiring in the "silver tsunami." 
 - Approximately 95% of those retirees will be senior staff and senior engineers and overall, 90% of the retirees are either engineers or staff. 
 
-
-![retirees.png](https://github.com/1fatpanda1/Pewlett-Hackard-Analysis-1/blob/main/Data/mentorship%20data.png)
+### Eligible Mentors
+![mentors.png](https://github.com/1fatpanda1/Pewlett-Hackard-Analysis-1/blob/main/Data/mentorship%20data.png)
 - There are 1,549 eligible mentors. A large majority of these eligible mentors are either engineers or staff of some sort while the remaining 77 are Technique leaders.
 - None of the eligible mentors are managers.
 
